@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Hello"
+date:   2022-07-08 20:33:02 +0800
+categories: about
+---
+
+Hi there! Welcome to my home page. 
